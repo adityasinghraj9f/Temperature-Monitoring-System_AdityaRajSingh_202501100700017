@@ -1,11 +1,11 @@
 # Temperature-Monitoring-System_AdityaRajSingh_202501100700017
-**Problem Statement****:**
+**Problem Statement**
 - Build a Python program to display messages according to the temperature received from an assumed IoT system.
 - Accept maximum and minimum temperature limits from the user.
 - Generate random temperature values at 2-second intervals.
 - Compare the generated values with the limits and display appropriate messages.
 
-**Approach****:**
+**Approach**
 - Input Handling:
 - The program prompts the user to enter minimum and maximum temperature limits.
 - Random Temperature Generation:
@@ -19,7 +19,7 @@
 - Runs continuously in a while True loop.
 - Uses time.sleep(2) to simulate real-time monitoring at 2-second intervals.
 
-**Sample Output****:**
+**Sample Output**
 
 Enter minimum temperature limit: 20
 Enter maximum temperature limit: 30
